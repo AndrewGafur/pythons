@@ -1,0 +1,17 @@
+# Userning ism, familiyasi va yoshini saqlash
+
+fname = "Muslim"
+lname = "Anvarov"
+age = 17
+
+# Textga joylash
+text = f"Man {lname} {fname} {age} yoshdaman."
+
+# Output
+print(text)
+
+# Qayrli tong qabari
+qayrli_tong = f"Qayrli tong {fname}"
+
+# Output
+print(qayrli_tong)
